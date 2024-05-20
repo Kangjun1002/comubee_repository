@@ -2,7 +2,6 @@ package com.kh.board.controller;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -17,7 +16,6 @@ import com.kh.board.model.service.BoardService;
 import com.kh.board.model.vo.Attachment;
 import com.kh.board.model.vo.Board;
 import com.kh.common.MyFileRenamePolicy;
-import com.kh.user.model.dao.UserDao;
 import com.kh.user.model.service.UserService;
 import com.oreilly.servlet.MultipartRequest;
 
