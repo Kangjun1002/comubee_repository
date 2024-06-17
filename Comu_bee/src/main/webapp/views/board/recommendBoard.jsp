@@ -30,7 +30,6 @@
             <h2>추천게시판</h2>
         </div>
         <div class="table-responsive">
-            <%@ include file="/views/board/listSample.jsp" %>
         </div>
     </div>
 </body>

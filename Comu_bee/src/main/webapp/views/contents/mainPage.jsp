@@ -1,6 +1,4 @@
 <%@page import="com.kh.contents.model.vo.Board"%>
-<%@page import="java.util.Random"%>
-<%@page import="java.util.Collections"%>
 <%@page import="java.util.List"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="com.kh.contents.model.vo.Contents"%>

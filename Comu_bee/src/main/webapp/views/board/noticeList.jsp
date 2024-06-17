@@ -36,7 +36,6 @@
             </c:if>
         </div>
         <div class="table-responsive">
-            <%@ include file="/views/board/listSample.jsp" %>
         </div>
     </div>
 </body>

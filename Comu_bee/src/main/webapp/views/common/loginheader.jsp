@@ -128,10 +128,10 @@ String contextPath = request.getContextPath();
 					</tr>
 				</table>
 			<div class="find-area">
-				<th><input type="button" class="btn btn-link"
-					onclick="findId();" value="아이디 찾기"></th>|
-				<th><input type="button" class="btn btn-link"
-					onclick="findPwd();" value="비밀번호 찾기"></th>
+				<input type="button" class="btn btn-link"
+					onclick="findId();" value="아이디 찾기">
+				<input type="button" class="btn btn-link"
+					onclick="findPwd();" value="비밀번호 찾기">
 		</div>
 	</form>
 		<script>

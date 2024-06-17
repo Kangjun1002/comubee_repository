@@ -34,7 +34,6 @@
             <a href="${pageContext.request.contextPath}/insert.bo" class="btn btn-outline-secondary create-post-button">게시글 작성</a>
         </div>
         <div class="table-responsive">
-            <%@ include file="/views/board/listSample.jsp" %>
         </div>
     </div>
 </body>

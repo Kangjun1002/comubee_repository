@@ -203,7 +203,7 @@
 			
 			
 				<div class="boardList">
-					<%@ include file="/views/board/listSample.jsp" %>
+	
 				</div>
 			</div>
 		</div>

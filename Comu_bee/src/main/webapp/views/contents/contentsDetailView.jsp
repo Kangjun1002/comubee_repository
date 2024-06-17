@@ -1,6 +1,6 @@
 <%@page import="com.kh.contents.model.vo.Board"%>
 <%@page import="com.kh.contents.model.vo.Contents"%>
-<%@page import="java.util.ArrayList"%>
+
 <%@page import="com.kh.common.JDBCTemplate"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
